@@ -1,4 +1,4 @@
 # What is this project?
-This is a web app to showcase Python projects
+This is a web app to showcase my Python projects
 
 ### Web Developments
