@@ -10,7 +10,12 @@ with col1:
 with col2:
     st.title("Amir Naghieh")
     content = """
-    Hi, I'm Amir. I'm a Data Engineer and these are my experimental apps
+    Hi, I'm Amir. I'm a Data Engineer and on this page I seek to test my coding skills by writing various apps
     """
     st.info(content)
+
+content2 = """
+Welcome to my page! Below you can find my apps:
+"""
+st.text(content2)
 
